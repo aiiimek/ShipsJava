@@ -1,2 +1,2 @@
 # ShipsJava
-Simple battleships game in java
+Simple battleship terminal game in java. 
